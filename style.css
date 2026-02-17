@@ -108,8 +108,14 @@
 
 h1 {
     font-family: poppins-extrabold;
+    color: white;
 }
 
 p {
     font-family: poppins-regular;
+    color: white;
+}
+
+body {
+    background-color: black;
 }
